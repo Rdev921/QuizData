@@ -1,5 +1,5 @@
 {
-    "Sports": [
+    "Category": [
         {
             "category": "Sports",
             "type": "multiple",
@@ -119,9 +119,9 @@
                 "Yekaterinburg",
                 "Kaliningrad"
             ]
-        }
-    ],
-    "General Knowledge": [
+        },
+    
+   
         {
             "category": "General Knowledge",
             "type": "multiple",
@@ -241,9 +241,8 @@
                 "Chuck Paluhniuk",
                 "Irvine Welsh"
             ]
-        }
-    ],
-    "Geography": [
+        },
+        
         {
             "category": "Geography",
             "type": "multiple",
